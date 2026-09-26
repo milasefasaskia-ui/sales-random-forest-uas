@@ -1,0 +1,85 @@
+order_date,ship_mode,segment,region,category,sub_category,sales,quantity,discount
+2017-11-08,Second Class,Consumer,South,Furniture,Bookcases,261.96,2,0.0
+2017-11-08,Second Class,Consumer,South,Furniture,Chairs,731.94,3,0.0
+2017-06-12,Second Class,Corporate,West,Office Supplies,Labels,14.62,2,0.0
+2016-10-11,Standard Class,Consumer,South,Furniture,Tables,957.5775,5,0.45
+2016-10-11,Standard Class,Consumer,South,Office Supplies,Storage,22.368,2,0.2
+2015-06-09,Standard Class,Consumer,West,Furniture,Furnishings,48.86,7,0.0
+2015-06-09,Standard Class,Consumer,West,Office Supplies,Art,7.28,4,0.0
+2015-06-09,Standard Class,Consumer,West,Technology,Phones,907.152,6,0.2
+2015-06-09,Standard Class,Consumer,West,Office Supplies,Binders,18.504,3,0.2
+2015-06-09,Standard Class,Consumer,West,Office Supplies,Appliances,114.9,5,0.0
+2015-06-09,Standard Class,Consumer,West,Furniture,Tables,1706.184,9,0.2
+2015-06-09,Standard Class,Consumer,West,Technology,Phones,911.424,4,0.2
+2018-04-15,Standard Class,Consumer,South,Office Supplies,Paper,15.552,3,0.2
+2017-12-05,Standard Class,Consumer,West,Office Supplies,Binders,407.976,3,0.2
+2016-11-22,Standard Class,Home Office,Central,Office Supplies,Appliances,68.81,5,0.8
+2016-11-22,Standard Class,Home Office,Central,Office Supplies,Binders,2.544,3,0.8
+2015-11-11,Standard Class,Consumer,Central,Office Supplies,Storage,665.88,6,0.0
+2015-05-13,Second Class,Consumer,West,Office Supplies,Storage,55.5,2,0.0
+2015-08-27,Second Class,Consumer,West,Office Supplies,Art,8.56,2,0.0
+2015-08-27,Second Class,Consumer,West,Technology,Phones,213.48,3,0.2
+2015-08-27,Second Class,Consumer,West,Office Supplies,Binders,22.72,4,0.2
+2017-12-09,Standard Class,Corporate,Central,Office Supplies,Art,19.46,7,0.0
+2017-12-09,Standard Class,Corporate,Central,Office Supplies,Appliances,60.34,7,0.0
+2018-07-16,Second Class,Consumer,East,Furniture,Chairs,71.372,2,0.3
+2016-09-25,Standard Class,Consumer,West,Furniture,Tables,1044.63,3,0.0
+2017-01-16,Second Class,Consumer,West,Office Supplies,Binders,11.648,2,0.2
+2017-01-16,Second Class,Consumer,West,Technology,Accessories,90.57,3,0.0
+2016-09-17,Standard Class,Consumer,East,Furniture,Bookcases,3083.43,7,0.5
+2016-09-17,Standard Class,Consumer,East,Office Supplies,Binders,9.618,2,0.7
+2016-09-17,Standard Class,Consumer,East,Furniture,Furnishings,124.2,3,0.2
+2016-09-17,Standard Class,Consumer,East,Office Supplies,Envelopes,3.264,2,0.2
+2016-09-17,Standard Class,Consumer,East,Office Supplies,Art,86.304,6,0.2
+2016-09-17,Standard Class,Consumer,East,Office Supplies,Binders,6.858,6,0.7
+2016-09-17,Standard Class,Consumer,East,Office Supplies,Art,15.76,2,0.2
+2018-10-19,Second Class,Home Office,Central,Office Supplies,Paper,29.472,3,0.2
+2017-12-08,First Class,Corporate,Central,Technology,Phones,1097.544,7,0.2
+2017-12-08,First Class,Corporate,Central,Furniture,Furnishings,190.92,5,0.6
+2016-12-27,Standard Class,Home Office,Central,Office Supplies,Envelopes,113.328,9,0.2
+2016-12-27,Standard Class,Home Office,Central,Furniture,Bookcases,532.3992,3,0.32
+2016-12-27,Standard Class,Home Office,Central,Furniture,Chairs,212.058,3,0.3
+2016-12-27,Standard Class,Home Office,Central,Technology,Phones,371.168,4,0.2
+2018-09-10,Standard Class,Corporate,Central,Technology,Phones,147.168,4,0.2
+2017-07-17,Standard Class,Corporate,West,Office Supplies,Storage,77.88,2,0.0
+2018-09-19,Standard Class,Corporate,South,Office Supplies,Storage,95.616,2,0.2
+2017-03-11,First Class,Corporate,Central,Technology,Accessories,45.98,2,0.0
+2017-03-11,First Class,Corporate,Central,Office Supplies,Binders,17.46,2,0.0
+2015-10-20,Second Class,Consumer,Central,Office Supplies,Storage,211.96,4,0.0
+2017-06-20,Standard Class,Consumer,East,Technology,Accessories,45.0,3,0.0
+2017-06-20,Standard Class,Consumer,East,Technology,Phones,21.8,2,0.0
+2016-04-18,Standard Class,Consumer,Central,Office Supplies,Binders,38.22,6,0.0
+2016-04-18,Standard Class,Consumer,Central,Office Supplies,Labels,75.18,6,0.0
+2016-04-18,Standard Class,Consumer,Central,Furniture,Furnishings,6.16,2,0.0
+2016-04-18,Standard Class,Consumer,Central,Furniture,Chairs,89.99,1,0.0
+2017-12-11,Standard Class,Corporate,East,Office Supplies,Fasteners,15.26,7,0.0
+2017-12-11,Standard Class,Corporate,East,Technology,Phones,1029.95,5,0.0
+2017-06-17,First Class,Consumer,East,Office Supplies,Storage,208.56,6,0.0
+2017-06-17,First Class,Consumer,East,Office Supplies,Paper,32.4,5,0.0
+2017-06-17,First Class,Consumer,East,Furniture,Chairs,319.41,5,0.1
+2017-06-17,First Class,Consumer,East,Office Supplies,Paper,14.56,2,0.0
+2017-06-17,First Class,Consumer,East,Technology,Accessories,30.0,2,0.0
+2017-06-17,First Class,Consumer,East,Office Supplies,Binders,48.48,4,0.2
+2017-06-17,First Class,Consumer,East,Office Supplies,Art,1.68,1,0.0
+2016-11-24,Standard Class,Consumer,West,Technology,Accessories,13.98,2,0.0
+2016-11-24,Standard Class,Consumer,West,Office Supplies,Binders,25.824,6,0.2
+2016-11-24,Standard Class,Consumer,West,Office Supplies,Paper,146.73,3,0.0
+2016-11-24,Standard Class,Consumer,West,Furniture,Furnishings,79.76,4,0.0
+2016-04-30,Standard Class,Home Office,Central,Furniture,Chairs,213.115,5,0.3
+2015-12-05,Standard Class,Corporate,West,Office Supplies,Art,1113.024,8,0.2
+2015-12-05,Standard Class,Corporate,West,Technology,Phones,167.968,4,0.2
+2017-06-04,First Class,Consumer,South,Office Supplies,Paper,75.88,2,0.0
+2017-09-18,Standard Class,Consumer,East,Office Supplies,Binders,4.616,1,0.2
+2018-09-14,Second Class,Consumer,Central,Office Supplies,Paper,19.05,3,0.0
+2016-04-26,Standard Class,Consumer,South,Furniture,Chairs,831.936,8,0.2
+2016-04-26,Standard Class,Consumer,South,Furniture,Furnishings,97.04,2,0.2
+2016-04-26,Standard Class,Consumer,South,Office Supplies,Storage,72.784,1,0.2
+2018-12-09,First Class,Corporate,Central,Office Supplies,Binders,1.248,3,0.8
+2018-12-09,First Class,Corporate,Central,Furniture,Furnishings,9.708,3,0.6
+2018-12-09,First Class,Corporate,Central,Office Supplies,Storage,27.24,3,0.2
+2015-11-26,Second Class,Consumer,Central,Furniture,Furnishings,19.3,5,0.6
+2017-06-12,First Class,Corporate,South,Office Supplies,Appliances,208.16,1,0.0
+2017-06-12,First Class,Corporate,South,Office Supplies,Binders,16.74,3,0.0
+2015-10-12,Standard Class,Consumer,West,Office Supplies,Art,14.9,5,0.0
+2015-10-12,Standard Class,Consumer,West,Office Supplies,Storage,21.39,1,0.0
+2016-09-03,Standard Class,Corporate,South,Office Supplies,Envelopes,200.984,7,0.2
